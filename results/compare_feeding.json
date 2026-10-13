@@ -1,0 +1,44 @@
+{
+ "RF_paper_full": {
+  "acc": 0.9989,
+  "macroF1": 0.9973,
+  "F1_eating": 0.9992,
+  "F1_walking": 0.9899
+ },
+ "RF_paper_RFE60": {
+  "acc": 0.999,
+  "macroF1": 0.9975,
+  "F1_eating": 0.9992,
+  "F1_walking": 0.9899
+ },
+ "HGB_ours": {
+  "acc": 0.9995,
+  "macroF1": 0.9982,
+  "F1_eating": 0.9984,
+  "F1_walking": 0.9933
+ },
+ "OvR_specialists": {
+  "acc": 0.9995,
+  "macroF1": 0.9983,
+  "F1_eating": 0.9992,
+  "F1_walking": 0.9933
+ },
+ "HGB_balanced": {
+  "acc": 0.9992,
+  "macroF1": 0.998,
+  "F1_eating": 0.9992,
+  "F1_walking": 0.9933
+ },
+ "TwoStage_pairfix": {
+  "acc": 0.9993,
+  "macroF1": 0.9981,
+  "F1_eating": 0.9984,
+  "F1_walking": 0.9933
+ },
+ "RankMix_HGB_OvR": {
+  "acc": 0.8149,
+  "macroF1": 0.7602,
+  "F1_eating": 0.8376,
+  "F1_walking": 0.3931
+ }
+}
